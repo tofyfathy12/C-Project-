@@ -4,8 +4,6 @@
 int main()
 {
     printf("this message is from the main file\n");
-    printf("this is from me\n");
-    printf("Hello world from Mostafa's pc\n");
-    printf("ssssssssssssssssssssssss\n");
+    printf("Hello people\n");
     return 0;
 }
