@@ -4,6 +4,6 @@
 int main()
 {
     printf("this message is from the main file\n");
-    printf("Hello people\n");
+    printf("Mostafa\n");
     return 0;
 }
